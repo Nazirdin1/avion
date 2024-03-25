@@ -1,0 +1,148 @@
+
+
+.blue-head{
+    background: #2A254B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    height: 41px;
+}
+.blue-head p{
+    color: white;
+}
+.pos-head{
+    position: absolute;
+    margin-left: 1280px;
+    margin-top: -35px;
+}
+a{
+    color: #726E8D;
+}
+.header1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 800px;
+    height: 65px;
+}
+.head1{
+    gap: 200px;
+}
+.center1,.blocks{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.header2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 45px;
+    background: #F9F9F9;
+    height: 54px;
+}
+.h1_{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 34px;
+}
+.img_w{
+    width: 585px;
+    margin-top: 0px;
+}
+.btn{
+    width: 150px;
+    height: 56px;
+}
+.btn-1{
+    margin-top: 150px;
+}
+.gap-20{
+    gap: 20px;
+}
+.block{
+    width: 270px;
+    height: 124px;
+}
+.h_2{
+    height: 80px;
+    text-align: center;
+}
+.img_3{
+    margin-top: 100px;
+}
+.btn_3{
+    width: 100px;
+    background: #2A254B;
+    color: white;
+}
+.btn_pos{
+    position: absolute;
+    margin-left: 430px;
+    margin-top: -120px;
+}
+.btn_pos input{
+    width: 354px;
+    height: 56px;
+    border: none;
+    outline: 0;
+    text-align: start;
+}
+.footer{
+    width: 1280px;
+    height: 360px;
+    background: #2A254B;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: -5px;
+}
+.footer p{
+    color: #F9F9F9;
+    margin-top: 20px;
+}
+.end input{
+    width: 309px;
+    height: 56px;
+    border: none;
+    outline: 0;
+    text-align: start;
+    background: #FFFFFF26;
+}
+.end button{
+    color: #2A254B;
+    background-color: #F9F9F9;
+}
+.linia{
+    margin-top: -30px;
+    margin-left: 60px;
+    width: 1177px;
+    border: 1px solid #4E4D93
+}
+.end_2{
+    width: 1280px;
+    height: 60px;
+    background: #2A254B;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 750px;
+}
+.end_2 p{
+    color: #F9F9F9;
+}
+.end{
+    margin-top: -120px;
+}
+.btn_3{
+    margin-left: -5px;
+}
+.end_2 i{
+    color: #F9F9F9;
+}
+.img_22{
+    width: 1280px;
+}
